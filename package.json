@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/fuzzaldrin-plus": "0.0.1",
+    "@types/lodash-es": "4.17.0",
+    "@types/react": "16.0.38",
+    "@types/react-dom": "16.0.4",
+    "@types/react-redux": "5.0.15",
+    "awesome-typescript-loader": "3.4.1",
+    "fuzzaldrin-plus": "0.6.0",
+    "html-webpack-plugin": "2.30.1",
+    "lodash-es": "4.17.5",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2",
+    "redux-devtools-extension": "2.13.2",
+    "tslib": "1.9.0",
+    "typescript": "2.7.1",
+    "webpack": "3.11.0",
+    "webpack-dev-server": "2.11.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  }
+}
